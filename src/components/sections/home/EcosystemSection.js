@@ -25,7 +25,7 @@ function EcosystemSection() {
           imageSrc={swapphone}
           imageSrcPhone={swapphonesm}
           buttonText="View Website"
-          buttonLink="#"
+          buttonLink="https://www.silentswap.com/"
         />
         <EchoBox
           headerText="DECENTRALIZED EXCHANGE"
@@ -34,7 +34,7 @@ function EcosystemSection() {
           imageSrc={sgsphone}
           imageSrcPhone={sgsphonesm}
           buttonText="View Website"
-          buttonLink="#"
+          buttonLink="https://www.sgs.trade/?srcChain=1&destChain=1&srcToken=0x0000000000000000000000000000000000000000&destToken=0xb72E76cCf005313868DB7b48070901a44629da98"
         />
         <EchoBox
           headerText="NFT MARKETPLACE"
@@ -43,7 +43,7 @@ function EcosystemSection() {
           imageSrc={nftphone}
           imageSrcPhone={nftphonesm}
           buttonText="View Website"
-          buttonLink="#"
+          buttonLink="https://inkubate.trade/"
         />
       </div>
     </section>

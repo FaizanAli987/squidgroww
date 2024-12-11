@@ -47,9 +47,9 @@ function Navbar() {
           ref={sidemenuRef}
           className={`sidemenu ${isSideMenuOpen ? "open" : ""}`}
         >
-          <div className="searchbar-side">
+          {/* <div className="searchbar-side">
             <img src={searchsm} alt="Search Icon" /> <input type="text" />
-          </div>
+          </div> */}
           <ul>
             <li>
               <Link to="/utilities">Utilities</Link>
@@ -74,11 +74,11 @@ function Navbar() {
               <Link to="/press">Press</Link>
             </li>
           </ul>
-          <div className="searchbar">
+          {/* <div className="searchbar">
             <img src={search} alt="Search Icon" /> <input type="text" />
-          </div>
+          </div> */}
           <div>
-            <Link to="#" className="purplebtn">
+            <Link to="https://t.me/squidgrowportalentry" className="purplebtn">
               <img src={plane} alt="Plane Icon" /> Join the community
             </Link>
           </div>

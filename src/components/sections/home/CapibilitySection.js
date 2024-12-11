@@ -15,7 +15,7 @@ function CapibilitySection() {
           Capabilities create a harmonious crypto ecosystem, thanks to the power
           of interoperability.
         </p>
-        <a href="" className="purplebtn purplehover">
+        <a href="https://www.sgs.trade/?srcChain=1&destChain=1&srcToken=0x0000000000000000000000000000000000000000&destToken=0xb72E76cCf005313868DB7b48070901a44629da98" className="purplebtn purplehover">
           Launch Swap
         </a>
       </div>

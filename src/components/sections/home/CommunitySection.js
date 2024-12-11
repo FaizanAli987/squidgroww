@@ -13,7 +13,7 @@ function CommunitySection() {
           feedback, cultivating a dynamic community that propels the platform's
           evolution in the ever-changing crypto landscape.
         </p>
-        <a href="" className="purplebtn">
+        <a href="https://t.me/squidgrowportalentry" className="purplebtn">
           {" "}
           <img src={plane} alt="" /> Join the community
         </a>

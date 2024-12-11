@@ -20,10 +20,10 @@ function HomeHero() {
               technology and fun.
             </p>
             <div className="hero-btns">
-              <a href="">
+              <a href="https://etherscan.io/token/0xb72E76cCf005313868DB7b48070901a44629da98">
                 <img src={ethlogo} alt="" /> ETH Contract
               </a>
-              <a href="">
+              <a href="https://www.dextools.io/app/en/token/squidgrow?t=1726423887848">
                 <img src={dexlogo} alt="" /> ETH Contract
               </a>
      

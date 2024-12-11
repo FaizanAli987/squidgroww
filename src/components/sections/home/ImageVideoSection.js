@@ -13,7 +13,7 @@ function ImageVideoSection() {
             Don't miss out! Token is available on numerous renowned crypto
             platforms to make sure new holders have easy access to it.
           </p>
-          <a href="" className="purplebtn purplehover">
+          <a href="https://www.sgs.trade/?srcChain=1&destChain=1&srcToken=0x0000000000000000000000000000000000000000&destToken=0xb72E76cCf005313868DB7b48070901a44629da98" className="purplebtn purplehover">
             Buy on ETH
           </a>
         </div>
